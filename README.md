@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F2A44,100:1E5B8C&height=220&section=header&text=Rafael%20Pena&fontSize=42&fontColor=58A6FF&fontAlignY=38&desc=Full%20Stack%20Developer%20Jr&descAlignY=58&descColor=8FA8C4&animation=fadeIn" width="100%"/>
 
-<!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=560&lines=Full+Stack+Developer+Jr;Python+%7C+JavaScript+%7C+SQL;Sempre+construindo+algo+novo;Aberto+a+oportunidades" alt="Typing SVG" />
 </a>
@@ -31,25 +29,11 @@ Sou o Rafael, estudante de Ciência da Computação e desenvolvedor full stack j
 
 <br>
 
-## 📌 Projetos em destaque
-
-> Os cards abaixo puxam automaticamente os repositórios que eu fixar (pin) no meu perfil do GitHub.
-> Para atualizar: vá em **GitHub → seu perfil → Customize your pins** e escolha até 6 repositórios.
-
-<div align="center">
-
-<a href="https://github.com/raffaelpena?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=raffaelpena&repo=SEU-REPO-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"/>
-</a>
-<a href="https://github.com/raffaelpena?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=raffaelpena&repo=SEU-REPO-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"/>
-</a>
-
-</div>
+## 📌 Projetos
 
 <div align="center">
   <a href="https://github.com/raffaelpena?tab=repositories">
-    <img src="https://img.shields.io/badge/Ver%20todos%20os%20reposit%C3%B3rios-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
+    <img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rios-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
   </a>
 </div>
 
@@ -86,15 +70,13 @@ Sou o Rafael, estudante de Ciência da Computação e desenvolvedor full stack j
   <img src="https://raw.githubusercontent.com/raffaelpena/raffaelpena/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-<sub>⚙️ Para essa animação aparecer, você precisa gerar o SVG via GitHub Actions — instruções no final deste arquivo.</sub>
-
 <br>
 
 ## 🌐 Redes sociais
 
 <div align="center">
 
-<a href="www.linkedin.com/in/rafael-barboza-pena-9347323b6" target="_blank">
+<a href="https://www.linkedin.com/in/rafael-barboza-pena-9347323b6" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/rafa.rp07" target="_blank">
