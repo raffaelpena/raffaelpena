@@ -94,7 +94,7 @@ Sou o Rafael, estudante de Ciência da Computação e desenvolvedor full stack j
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/rafael-barboza-pena" target="_blank">
+<a href="www.linkedin.com/in/rafael-barboza-pena-9347323b6" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/rafa.rp07" target="_blank">
